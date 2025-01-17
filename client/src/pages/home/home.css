@@ -58,7 +58,6 @@
     background-color: #eaeaea;
     transition: background-color 0.3s ease;
   }
-  
   /* สไตล์สำหรับการตอบสนอง */
   @media (max-width: 768px) {
     .card {
