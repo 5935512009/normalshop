@@ -40,11 +40,11 @@
 // number[10]=10;
 // console.log(number);
 
-// function asd(){
+// function asd(a,b){
 //     'use strict'
 //     a =100;
 //     b =100;
-//     return args[1],args[2]
+//     return args[1],args[2];
 //     console.log(a+b);
 // }
 
@@ -54,11 +54,19 @@
 //  console.log(false==[]); 
 
 
-const arr=[1,2,3,4]
-const str="1,2,3,4"
-//     console.log(arr==str);
+// const arr=[1,2,3,4]
+// const str="1,2,3,4"
+// console.log(arr==str);
 
-console.log(typeof arr)
+// const arr = [1,2,3,4,5]
+// arr.shift(1,2)
+// console.log(arr);
+
+// const str = 'pasut'
+// const a = str.split()
+
+// console.log(a);
+
 
 // let abc = "keep"
 // abc[2] ="y"
